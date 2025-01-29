@@ -1,5 +1,3 @@
-/*Nome: Maik Ramos Maifredo. 
-Matrícula 2022200556.*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
